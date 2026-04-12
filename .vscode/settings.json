@@ -1,0 +1,21 @@
+{
+    "java.project.referencedLibraries": [
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/J2Ddemo/J2Ddemo.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/lib/javafx-swt.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/TransparentRuler/TransparentRuler.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/Font2DTest/Font2DTest.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/TableExample/TableExample.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/Notepad/Notepad.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/Metalworks/Metalworks.jar",
+        "/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home/lib/jrt-fs.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/Stylepad/Stylepad.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/FileChooserDemo/FileChooserDemo.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/SwingSet2/SwingSet2.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/CodePointIM/CodePointIM.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/demo/jfc/SampleTree/SampleTree.jar",
+        "/Library/Java/JavaVirtualMachines/zulu-26.jdk/Contents/Home/lib/jrt-fs.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}
