@@ -23,7 +23,7 @@ The application follows the **Separation of Concerns** principle:
 ## 🚀 How to Run (Local Machine)
 1. Ensure you have a Java 17+ JDK installed that includes JavaFX (e.g., `zulufx` via Homebrew on macOS).
 2. Open the project folder in your IDE or terminal.
-3. Compile and execute `SecretKeeper.java`.
+3. Compile and execute `SecretKeeper.java`. ('javac SecretKeeper.java' then 'java SecretKeeper')
 4. The application runs entirely offline. No data is sent to external servers.
 
 ## 🔮 Future Improvements
