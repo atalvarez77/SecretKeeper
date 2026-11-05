@@ -26,6 +26,23 @@ The application follows the **Separation of Concerns** principle:
 3. Compile and execute `SecretKeeper.java`. ('javac SecretKeeper.java' then 'java SecretKeeper')
 4. The application runs entirely offline. No data is sent to external servers.
 
+## Execution
+Opening Page:
+<img width="492" height="447" alt="image" src="https://github.com/user-attachments/assets/a0331588-2af8-47b4-97aa-de4fbc224df0" />
+"Hello, this is my secret file!" with password "12345:
+<img width="498" height="443" alt="image" src="https://github.com/user-attachments/assets/d4805caa-ea45-4833-8f5e-8567ba33f97b" />
+Encrypted Text w/ save to file option:
+<img width="498" height="431" alt="image" src="https://github.com/user-attachments/assets/0beb8d60-9899-4f5b-93be-ca4b47dcaff7" />
+Text before and after decryption using password:
+<img width="499" height="413" alt="image" src="https://github.com/user-attachments/assets/16e13d2c-7f76-4ffc-9253-c4fc44f10d35" />
+<img width="502" height="441" alt="image" src="https://github.com/user-attachments/assets/59c3ae46-93f8-449f-8436-22d3374f4c0f" />
+
+
+
+
+
+
+
 ## 🔮 Future Improvements
 * Upgrade the Cipher mode from `ECB` to `GCM` (Galois/Counter Mode) for authenticated encryption.
 * Implement "Salting" for the password hash.
